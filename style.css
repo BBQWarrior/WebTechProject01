@@ -48,7 +48,7 @@ li a:hover {
     margin-top: 40px;
     display: grid;
     grid-template-columns: 20% 50%;
-    grid-column-gap: 2em;
+    grid-column-gap: 4em;
 }
 
 .block1 h1{
