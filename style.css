@@ -47,7 +47,7 @@ li a:hover {
     margin: auto;
     margin-top: 40px;
     display: grid;
-    grid-template-columns: 20% 60%;
+    grid-template-columns: 20% 52%;
     grid-column-gap: 4em;
 }
 
